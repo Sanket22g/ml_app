@@ -1,4 +1,4 @@
-flask 
-numpy 
+Flask
+numpy
 scikit-learn
-gunicon 
+gunicorn
